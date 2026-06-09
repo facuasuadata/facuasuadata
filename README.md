@@ -1,56 +1,38 @@
-# Hola 👋 Soy Facundo Asúa
+# 👋 Soy Facundo Asúa
 
-📊 Data Analyst | Data Science Enthusiast
+**Data Analyst** | Python · SQL · Power BI · Pandas
 
-Apasionado por transformar datos en información útil para la toma de decisiones. Interesado en análisis de datos, visualización y ciencia de datos aplicados a distintos sectores.
+[LinkedIn]www.linkedin.com/in/facundo-asua | Email: facundoasua.data@gamail.com
 
-## 🚀 Sobre mí
+---
 
-* Formación en Data Analytics (Ícaro UNC)
-* Formación en Data Science (Desafío Latam)
-* Actualmente construyendo proyectos para fortalecer mi portfolio
-* Interés en análisis de datos aplicado a salud, retail, deportes y finanzas
+## 🔎 Sobre mí
+
+Analista de datos en formación con background en fisioterapia y más de 20 años de experiencia profesional en el ámbito de la salud.
+
+Me especialicé en análisis de datos porque disfruto transformar información en conocimiento útil para la toma de decisiones. Actualmente desarrollo proyectos utilizando Python, SQL y herramientas de visualización, aplicando pensamiento analítico en áreas como salud, deportes, retail y finanzas.
 
 ## 🛠 Tecnologías
 
-* Python
-* Pandas
-* NumPy
-* SQL
-* Power BI
-* Excel
-* Git & GitHub
-* Jupyter Notebook
+Python · Pandas · NumPy · SQL · Power BI · Excel · Git · GitHub · Jupyter Notebook
 
-## 📂 Proyectos Destacados
+## 📂 Proyectos destacados
 
 ### ⚽ World Cup Analytics 2022
 
-Análisis exploratorio de datos del Mundial de Qatar 2022 utilizando Python, Pandas y visualización de datos.
+Análisis exploratorio de datos del Mundial de Qatar 2022.
 
 ### 🧬 Microbiome Data Analysis
 
-Proyecto de análisis de datos biológicos enfocado en la exploración y procesamiento de información relacionada con microbiomas.
+Exploración y análisis de datos biológicos relacionados con microbiomas.
 
-## 📚 Áreas de interés
+## 🎯 Áreas de interés
 
 * Data Analytics
 * Business Intelligence
-* Visualización de Datos
 * Salud
 * Retail
 * Deportes
 * Finanzas
 * Machine Learning
 
-## 📈 Actualmente aprendiendo
-
-* SQL Avanzado
-* Power BI
-* Machine Learning
-
-## 📫 Contacto
-
-LinkedIn: www.linkedin.com/in/facundo-asua
-
-GitHub: github.com/facuasuadata
