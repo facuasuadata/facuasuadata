@@ -36,3 +36,8 @@ Exploración y análisis de datos biológicos relacionados con microbiomas.
 * Finanzas
 * Machine Learning
 
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=facuasuadata&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facuasuadata&layout=compact)
