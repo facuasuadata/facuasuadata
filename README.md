@@ -2,11 +2,9 @@
 
 **Data Analyst** | Python · SQL · Power BI · Pandas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Facundo%20Asúa-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/facundo-asua)
-
-[![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/https://public.tableau.com/app/profile/facundo.as.a/vizzes)
-
-[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](facundoasua.data@gmail.com)
+LinkedIn: https://www.linkedin.com/in/facundo-asua
+- 📊 Tableau Public: (https://public.tableau.com/app/profile/facundo.as.a/vizzes)
+- 📧 Email: facundoasua.data@gmail.com
 
 ## 🔎 Sobre mí
 
