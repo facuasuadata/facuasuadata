@@ -3,7 +3,7 @@
 **Data Analyst** | Python · SQL · Power BI · Pandas
 
 LinkedIn: https://www.linkedin.com/in/facundo-asua
-- 📊 Tableau Public: (https://public.tableau.com/app/profile/facundo.as.a/vizzes)
+- 📊 Tableau Public: https://public.tableau.com/app/profile/facundo.as.a/vizzes
 - 📧 Email: facundoasua.data@gmail.com
 
 ## 🔎 Sobre mí
