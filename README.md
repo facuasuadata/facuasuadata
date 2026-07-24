@@ -26,9 +26,10 @@ Análisis exploratorio de datos del Mundial de Qatar 2022.
 
 Exploración y análisis de datos biológicos relacionados con microbiomas.
 
-## 🧪 Proyectos destacados
+### 🧪 Proyectos destacados
 
-- **[Clasificación de calidad de ramen](https://github.com/facuasuadata/ramen-quality-classification)** — Modelo de clasificación (Regresión Logística vs SVM) para predecir calidad percibida de productos de ramen.
+- **[Clasificación de calidad de ramen](https://github.com/facuasuadata/ramen-quality-classification)** — Regresión Logística vs SVM para predecir calidad percibida de productos.
+- **[Predicción de precios de casas](https://github.com/facuasuadata/house-price-prediction)** — Ridge, Lasso, Elastic Net y árbol de decisión para predecir precios de propiedades.
 - **[Predictor Mundial 2026](https://github.com/facuasuadata/mundial2026_predictor)** — Modelo estadístico basado en distribución de Poisson para predecir partidos.
 
 ## 🎯 Áreas de interés
